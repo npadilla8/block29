@@ -8,7 +8,7 @@ import Nav from "./components/Nav";
 
 const theme = createTheme ({
   palette: { 
-    mode:"dark"
+    mode:"light"
   },
 });
 
